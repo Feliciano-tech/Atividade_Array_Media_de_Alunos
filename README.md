@@ -24,7 +24,7 @@ Inicio
      FimSe
 Fim
 
-![Fluxograma]()
+![Fluxograma](https://github.com/Feliciano-tech/Atividade_Array_Media_de_Alunos/blob/parte_02/Fluxograma01.png)
  
 
      
