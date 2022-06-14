@@ -1,4 +1,4 @@
-# Atividade_Array_Media_de_Alunos
+# Atividade_Array_Media_de_Alunos_PT_02
 ## Segue uma variação do código principal, onde se pede para inserir a quantidade de alunos por sala, realiza o calculo de média e imprimi valores acima e abaixo da média.
 
 Inicio
