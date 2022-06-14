@@ -1,5 +1,5 @@
 # Atividade_Array_Media_de_Alunos
-## Segue o código onde se utiliza array(vetores) para guardar determinados valores, calcular sua media e imprimir valores acima da media. 
+## Segue o código onde se utiliza array(vetores) para guardar determinados valores, calcular sua média e imprimir valores acima da média. 
 
 Inicio
 
