@@ -14,4 +14,4 @@ Inicio
 Fim     
 
 
-![Fluxograma](https://github.com/Feliciano-tech/Atividade_Array_Media_de_Alunos/blob/main/Fluxograma.png)
+![Fluxograma](https://github.com/Feliciano-tech/Atividade_Array_Media_de_Alunos/blob/main/Fluxograma-1.png)
